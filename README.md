@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo Siqueira 👋 📊
 
-### ** Empreendedor voltado para area de Tecnologia **
+### **Empreendedor voltado para area de Tecnologia**
 
 # Estudando
 
@@ -12,5 +12,5 @@
  - Crescer na area de Desenvolvimento de Tecnologia 
 
 ### Contato
- -  **Email:** [gustavo.siqueirash@gmail.com] (emailto:gustavo.siqueirash@gmail.com)
+ -  **Email:** (gustavo.siqueirash@gmail.com)
  
